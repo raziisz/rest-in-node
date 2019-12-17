@@ -1,0 +1,27 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Teste de Rest API para tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raziisz/rest-in-node.git"
+  },
+  "keywords": [
+    "node",
+    "tutorial",
+    "youtube"
+  ],
+  "author": "Luiz Felipe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raziisz/rest-in-node/issues"
+  },
+  "homepage": "https://github.com/raziisz/rest-in-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
